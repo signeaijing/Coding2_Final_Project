@@ -7,3 +7,6 @@ The project scrapes all the urls from the Wikipedia page: https://en.m.wikipedia
 And then scrapes all the images from each of the pages in the main page. 
 
 A sample of the images are used as an input for the stable diffusion model,’sd-image-variations-diffusers.
+
+
+Link to documentation video: https://youtu.be/3RFJ9Qkv6xA
